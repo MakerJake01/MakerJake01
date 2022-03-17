@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 <!--
 **MakerJake01/MakerJake01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![MakerJake Stats](https://github-readme-stats.vercel.app/api?username=MakerJake01&theme=synthwave&show_icons=true&icon_color=f542f5&border_color=f542f5)
