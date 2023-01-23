@@ -5,4 +5,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like keyboards
 
+I also do scince olympiad and mostly compete in detector build and wifi lab.
+
 ![MakerJake Stats](https://github-readme-stats.vercel.app/api?username=MakerJake01&theme=synthwave&show_icons=true&icon_color=f542f5&border_color=f542f5)
